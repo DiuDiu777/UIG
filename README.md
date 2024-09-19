@@ -12,6 +12,8 @@ git submodule update --init --recursive
 ## Usage
 Enter your Rust project folder with a `Cargo.toml` file. If your project contains a `rust-toolchain.toml` file, we recommend disabling or removing it.
 
+Anonymous hub may not be able to see the demo image directly, please download the raw file and follow the link to download the corresponding image.
+
 ### generate upg
 ```shell
 cargo rap -upg
