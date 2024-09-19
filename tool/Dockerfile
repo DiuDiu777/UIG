@@ -1,5 +1,4 @@
 FROM ubuntu:latest
-LABEL authors="vaynnecol"
 
 ENV PATH=/root/.cargo/bin:${PATH} \
     HOST_TRIPLE=x86_64-unknown-linux-gnu
